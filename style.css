@@ -1,0 +1,26 @@
+img{
+    border-radius: 10px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    margin: 25px;
+}
+
+.main{
+    height: 100px;
+    background: #00000000;
+    display: flex;
+    justify-content: space-between;
+}
+.sub{
+    margin-top: 35px;
+    font-size: x-large;
+   margin-right: 200px;
+    color: rgb(112, 9, 9);
+    
+
+}
+img{
+    max-height: 70%;
+    max-width: 100%;
+}
